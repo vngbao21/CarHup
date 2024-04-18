@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ## Execution:
 -	Clone this repository using
 ```
-git clone https://github.com/knightstark7/CarHub-Car-Dealer-Website.git
+git clone https://github.com/knightstark7/CarHub-Car-Dealer-Website.git](https://github.com/vngbao21/CarHup.git
 ```
 **OR**
 Zip Download the Repository and Extract it's contents.
@@ -99,13 +99,3 @@ Then, open your browser and type localhost:8000 or 127.0.0.1:8000
 Our website and database are deployed on a server on [Render](https://render.com/). However, unfortunately, we don't have sufficient funds to renew the package, resulting in the temporary suspension of our website. Please clone our repository to run the website locally. :-)
 link old web deployment: https://carhub-app.onrender.com/
 
-## Feedback:
-
-if you have any feedback do reach me at mail tnhuanjuv7@gmail.com **OR** at [Linkedin](https://www.linkedin.com/in/nguyenhuan-tran/)
-
-## License:
-
-[MIT License](License)
-
-
-<p align='center'><b>Made with ❤ by Tran Nguyen Huan</b></p>
