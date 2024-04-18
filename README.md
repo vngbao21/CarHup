@@ -54,7 +54,7 @@ Image about Use Case Models
   <img src="https://github.com/knightstark7/CarHub-Car-Dealer-Website/blob/main/images/use_case_model.png" >
 </p>
 
-In this project, our website follows `MVT` (Model - View - Template) architecture
+In this project, our website follows `MVC` (Model - View - Client) architecture
 <p align="center">
   <img src="https://github.com/knightstark7/CarHub-Car-Dealer-Website/blob/main/images/MVT-architecture.png" >
 </p>
